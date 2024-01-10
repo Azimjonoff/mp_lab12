@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "256067786862",
+    "project_id": "mp-lab12",
+    "storage_bucket": "mp-lab12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256067786862:android:8247a81b635f445ec06e7f",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA8lPk2DlmW9zi0fFGvFClAL9bfuKKkvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
